@@ -26,11 +26,12 @@
 
 Скриншот с исходными данными
 
-<img width="490" height="257" alt="image" src="https://github.com/user-attachments/assets/ee0fae41-7062-408d-89f3-11ec1d4e69ed" />
+<img width="596" height="147" alt="image" src="https://github.com/user-attachments/assets/8480ff3e-07ec-492c-b53c-4efb055d4328" />
 
 Скриншот с зашифрованными данными
 
-<img width="721" height="157" alt="image" src="https://github.com/user-attachments/assets/e47d19be-395e-4817-99dc-7c2c8e6d52f4" />
+<img width="940" height="532" alt="image" src="https://github.com/user-attachments/assets/95d8b0b8-9c9c-4361-9592-de66d5c0eefc" />
+
 
 
 ### Задание 2
